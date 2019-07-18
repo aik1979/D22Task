@@ -1,0 +1,68 @@
+[
+ {
+   "id": 1,
+   "name": "Allamanda",
+   "bedrooms": 3,
+   "price": 100000,
+   "internalArea": 1130,
+   "externalArea": 400,
+   "bathrooms": 2,
+   "type": "small family",
+   "plot": 12
+ },
+ {
+   "id": 2,
+   "name": "Buttonwood",
+   "bedrooms": 2,
+   "price": 123000,
+   "internalArea": 1130,
+   "externalArea": 400,
+   "bathrooms": 2,
+   "type": "couple",
+   "plot": 13
+ },
+ {
+   "id": 3,
+   "name": "Periwinkle",
+   "bedrooms": 3,
+   "price": 122500,
+   "internalArea": 1130,
+   "externalArea": 400,
+   "bathrooms": 1,
+   "type": "small family",
+   "plot": 14
+ },
+ {
+   "id": 4,
+   "name": "Coralita",
+   "bedrooms": 4,
+   "price": 345543,
+   "internalArea": 1130,
+   "externalArea": 400,
+   "bathrooms": 2,
+   "type": "large family",
+   "plot": 15
+ },
+ {
+   "id": 5,
+   "name": "Lantana",
+   "bedrooms": 4,
+   "price": 132121,
+   "internalArea": 1130,
+   "externalArea": 400,
+   "bathrooms": 2,
+   "type": "large family",
+   "plot": 16
+ },
+ {
+   "id": 6,
+   "name": "Oleander",
+   "bedrooms": 4,
+   "price": 656443,
+   "internalArea": 1130,
+   "externalArea": 400,
+   "bathrooms": 3,
+   "type": "large family",
+   "plot": 17
+ }
+]
